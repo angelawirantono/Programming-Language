@@ -1,0 +1,22 @@
+Account <John Smith> now has $1400.0 balance after withdraw
+Account <John Smith> now has $2100.0 balance after deposit
+Account <John Smith> now has $2100.0 balance
+Account <John Smith> now has $2118.641095890411 balance after interest
+Account <William Hurt> now has $1100.0 balance after withdraw
+Account <William Hurt> now has $1200.0 balance after deposit
+Account <William Hurt> now has $1300.0 balance after deposit
+Account <William Hurt> now has $1399.0 balance after deposit
+Account <William Hurt> now has $398.0 balance after withdraw
+Account name: William Hurt
+Account <William Hurt> now has $398.0 balance
+Account <William Hurt> now has $401.98 balance after interest
+Account <William Hurt> now has $301.98 balance after withdraw
+Account <William Hurt> now has $901.98 balance after deposit
+Account <Woody Allison> now has $250.0 balance after withdraw
+Account <Woody Allison> now has $250.0 balance after interest
+Account <Woody Allison> now has $1130.0 balance after interest
+Account <Woody Allison> now has $630.0 balance after withdraw
+Account <Judi Foster> now has $-1305.0 balance after interest
+Account <Judi Foster> now has $-305.0 balance after deposit
+Account <Judi Foster> now has $195.0 balance after deposit
+Account <Judi Foster> now has $695.0 balance after deposit
